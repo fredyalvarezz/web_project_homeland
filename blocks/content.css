@@ -1,0 +1,14 @@
+.content{
+  box-sizing:border-box;
+}
+@media screen and (max-width: 768px) {
+  .content {
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .content {
+    box-sizing: border-box;
+  }
+}
