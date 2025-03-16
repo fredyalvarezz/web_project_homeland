@@ -1,4 +1,4 @@
-.footer{
+.footer-author{
   font-weight: 400;
   font-size: 14px;
   line-height: 16px;
@@ -7,14 +7,14 @@
   padding-bottom: 25px;
 }
 @media screen and (max-width:768px) {
-  .footer{
+  .footer-author{
     font-size: 14px;
     line-height: 16px;
   }
 
 }
 @media screen and (max-width:320px) {
-  .footer{
+  .footer-author{
     font-size: 14px;
     line-height: 14px;
 
