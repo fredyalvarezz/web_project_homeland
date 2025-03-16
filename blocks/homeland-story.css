@@ -9,7 +9,7 @@
   box-sizing: border-box;
   font-family: "Inter-Regular";
 }
-.Homeland-story__title{
+.homeland-story__title{
   font-style: bold;
   font-weight: 900;
   font-size: 54px;
@@ -42,7 +42,7 @@ line-height: 34px;
     box-sizing: border-box;
 
   }
-  .Homeland-story__title{
+  .homeland-story__title{
     font-style: bold;
     font-weight: 900;
     font-size: 45px;
@@ -80,7 +80,7 @@ line-height: 34px;
     padding-bottom: 92px;
     font-weight: 400;
   }
-  .Homeland-story__title{
+  .homeland-story__title{
     font-style: bold;
     font-weight: 900;
     font-size: 32px;
