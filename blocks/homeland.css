@@ -1,10 +1,12 @@
 .homeland{
-  display: flex;
+  font-family: "Inter-Regular";
+   display: flex;
    flex-direction: column;
    justify-content: center;
    align-items: center;
 }
 .homeland__title{
+  font-family: "Inter-Black";
 font-weight: 900;
 font-size: 96px;
 line-height: 100px;
