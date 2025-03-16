@@ -1,6 +1,6 @@
 # web_project_homeland
 Titulo: Homeland
-https://github.com/fredyalvarezz/web_project_homeland
+proyecto: https://github.com/fredyalvarezz/web_project_homeland
 
 
 Descripción del proyecto: 
