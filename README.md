@@ -12,3 +12,6 @@ Tecnologias y técnicas Usadas:
 Se incluyeron @media querys para algunas funcionalidades de la pantalla dependiendo del tamaño en pixeles y ajustes del texto.
 CSS para diseño de la página.
 HTML para estructura de la información y bloques almacenales de información.
+
+
+Autor: Fredy Alvarez
