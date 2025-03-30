@@ -1,22 +1,23 @@
 .homeland{
   font-family: "Inter-Regular";
-   display: flex;
-   flex-direction: column;
-   justify-content: center;
-   align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .homeland__title{
-  font-family: "Inter-Black";
-font-weight: 900;
-font-size: 96px;
-line-height: 100px;
-text-align: center;
-margin: 0;
-padding-top: 50px;
-padding-bottom: 30px;
-width: 720px;
-height: 200px;
+ font-family: "Inter-Black";
+ font-weight: 900;
+ font-size: 96px;
+ line-height: 100px;
+ text-align: center;
+ margin: 0;
+ padding-top: 50px;
+ padding-bottom: 30px;
+ width: 720px;
+ height: 200px;
 }
+
 .homeland__subtitle{
   font-weight: 400;
   font-size: 30px;
