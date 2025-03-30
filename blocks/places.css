@@ -40,29 +40,25 @@
   filter: grayscale(50%);
 }
 
-.places__place-button{
+
+.places__place-button-link{
   max-width: 289px;
   max-height: 48px;
   border-radius: 4px;
+  padding: 13px 20px 13px 20px;
+  gap: 10px;
   background: linear-gradient(#0278FE, #003A7B);
   grid-column: 1;
   grid-row: 3;
-  padding: 13px 20px 13px 20px;
-  gap: 10px;
-  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25%);
-}
-
-.places__place-button-link{
-  max-width: 249px;
-  max-height: 22px;
   font-size: 18px;
   line-height: 100%;
   color: #fff;
   text-decoration: none;
   font-weight: 600;
   text-align: center;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25%);
 }
-.places__place-button:hover{
+.places__place-button-link:hover{
   background: linear-gradient(90deg, #0278fe40 0%, #003a7b40 99.98%);
 }
 
@@ -135,27 +131,22 @@
    width: 100%;
   }
 
-  .places__place-button{
+  .places__place-button-link{
     max-width: 289px;
     max-height: 48px;
     border-radius: 4px;
     padding: 13px 20px 13px 20px;
-    gap: 10px;
+    gap: 8px;
     background: linear-gradient(#0278FE, #003A7B);
     grid-column: 1;
     grid-row: 3;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25%);
-  }
-
-  .places__place-button-link{
-    max-width: 249px;
-    max-height: 22px;
     font-size: 18px;
     line-height: 100%;
     color: #fff;
     text-decoration: none;
     font-weight: 600;
     text-align: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25%);
   }
   .places__place-website{
     max-width: 452px;
@@ -198,30 +189,6 @@
     grid-row: 1;
     padding-top: 5%;
     padding-bottom: 30%;
-  }
-
-}
-@media screen and (max-width:601px) {
-  .places__place-button{
-    max-width: 288px;
-    max-height: 48px;
-    border-radius: 4px;
-    /*padding: 5px 10px 5px 10px;
-    gap: 5px;*/
-    background: linear-gradient(#0278FE, #003A7B);
-    grid-column: 1;
-    grid-row: 3;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25%);
-  }
-  .places__place-button-link{
-    max-width: 194px;
-    max-height: 17px;
-    font-size: 12px;
-    line-height: 100%;
-    color: #fff;
-    text-decoration: none;
-    font-weight: 600;
-    text-align: center;
   }
 
 }
@@ -277,26 +244,22 @@
    width: 100%;
   }
 
-  .places__place-button{
+  .places__place-button-link{
     max-width: 288px;
-    max-height: 48px;
+    max-height: 89px;
     border-radius: 4px;
-    /*padding: 5px 10px 5px 10px;
-    gap: 5px;*/
+    padding: 5px 10px 5px 10px;
+    gap: 5px;
     background: linear-gradient(#0278FE, #003A7B);
     grid-column: 1;
     grid-row: 7;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25%);
-  }
-  .places__place-button-link{
-    max-width: 194px;
-    max-height: 17px;
     font-size: 14px;
     line-height: 100%;
     color: #fff;
     text-decoration: none;
     font-weight: 600;
     text-align: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25%);
   }
   .places__place-website{
     max-width: 258px;
