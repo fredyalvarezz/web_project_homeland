@@ -47,7 +47,7 @@
   border-radius: 4px;
   padding: 13px 20px 13px 20px;
   gap: 10px;
-  background: linear-gradient(#0278FE, #003A7B);
+  background: linear-gradient(90deg, #0278FE 0%, #003A7B 99.98%);
   grid-column: 1;
   grid-row: 3;
   font-size: 18px;
@@ -137,7 +137,7 @@
     border-radius: 4px;
     padding: 13px 20px 13px 20px;
     gap: 8px;
-    background: linear-gradient(#0278FE, #003A7B);
+    background: linear-gradient(90deg, #0278FE 0%, #003A7B 99.98%);
     grid-column: 1;
     grid-row: 3;
     font-size: 18px;
@@ -250,7 +250,7 @@
     border-radius: 4px;
     padding: 5px 10px 5px 10px;
     gap: 5px;
-    background: linear-gradient(#0278FE, #003A7B);
+    background: linear-gradient(90deg, #0278FE 0%, #003A7B 99.98%);
     grid-column: 1;
     grid-row: 7;
     font-size: 14px;
