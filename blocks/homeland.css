@@ -1,12 +1,12 @@
 .homeland{
-  font-family: "Inter-Regular";
+  font-family: "Inter-Regular", sans-serif;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 .homeland__title{
- font-family: "Inter-Black";
+ font-family: "Inter-Black", sans-serif;
  font-weight: 900;
  font-size: 96px;
  line-height: 100px;
@@ -18,7 +18,8 @@
  height: 200px;
 }
 
-.homeland__subtitle{
+.homeland__description{
+  font-family: "Inter-Regular", sans-serif;
   font-weight: 400;
   font-size: 30px;
   line-height: 36px;
@@ -54,7 +55,7 @@
   width: 100%;
   height: auto;
   }
-  .homeland__subtitle{
+  .homeland__description{
     font-weight: 400;
     font-size: 30px;
     line-height: 36px;
@@ -93,7 +94,7 @@
   width: 100%;
   height: auto;
   }
-  .homeland__subtitle{
+  .homeland__description{
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
